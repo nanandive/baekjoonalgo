@@ -1,5 +1,6 @@
-import java.util.*;
+//스트링을 쓰려고 했지만, 이차원배열로 바꿈
 
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
